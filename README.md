@@ -7,6 +7,6 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 
 Create the Entity Relationship Diagram and analyze employee data using SQL.
 
-!Entity Relationship Diagram](ERD.png)
-!Employee salary](Salary_ranges.png)
-!Employee position salary](Average_salary_per_title.png)
+[!Entity Relationship Diagram](ERD.png)
+[!Employee salary](Salary_ranges.png)
+[!Employee position salary](Average_salary_per_title.png)
